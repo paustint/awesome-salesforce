@@ -142,36 +142,38 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/utilities.png" align="right" width="220">
 
-* [Weave](http://mailtoharshit.github.io/Weave/) - Sublime Text Plugin to generate boilerplate Salesforce Code Templates  
-
-* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - Automagically deploy a GitHub repository to a Salesforce ORG 
-  and "Deploy to Salesforce button" to your README.md files
-
-* [Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
-
-* [Push Notification Plugin for iOS and Android](https://github.com/forcedotcom/PushPlugin)- Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
-
-* [Salesforce1-Dev-Guide-Setup-Package](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
-
 * [Analytics-Cloud-Dataset-Utils](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)- Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
-
-* [Workbench](https://github.com/ryanbrainard/forceworkbench)- Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.
-
-* [Playground](https://www.adminbooster.com/tool)- Adminbooster Playground is an online tool to run SOQL/SOSL queries or Apex code, providing high level features for analysis and admin productivity.
 
 * [CassaCloud](http://cassacloud.com/nice-salesforce-debug/)- Nice salesforce debug helps you to understand logs from Salesforce developer console. For example if you have Map of map with lists, it is hard to find value where it exactly is.
 
-* [SoqlXplorer](https://github.com/superfell/SoqlX)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
+* [Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
 
 * [force-dev-tool](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle.
 
+* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - Automagically deploy a GitHub repository to a Salesforce ORG  and "Deploy to Salesforce button" to your README.md files
+
+* [Jetstream](https://getjetstream.app/) - Jetstream is a set of tools that supercharge your administration of Salesforce.com. Jetstream is build for administrators, developers, quality assurance, or power users that want to speed up your management of 
+Salesforce. Jetstream comes with an advanced query builder for viewing records, a powerful data loader for making changes to your record data, and many more features! Ditch Workbench and dataloader.io and get so much more from Jetstream.
+
 * [JSON to Apex](https://www.adminbooster.com/tool/json2apex)- Generate an Apex class from a JSON string.
 
+* [Playground](https://www.adminbooster.com/tool)- Adminbooster Playground is an online tool to run SOQL/SOSL queries or Apex code, providing high level features for analysis and admin productivity.
+
+* [Push Notification Plugin for iOS and Android](https://github.com/forcedotcom/PushPlugin)- Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
+
 * [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)- Convert IDs on 15 characters to IDs on 18 characters.
+
+* [Salesforce1-Dev-Guide-Setup-Package](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
+
+* [SoqlXplorer](https://github.com/superfell/SoqlX)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
 
 * [SOQooLio](https://soqool.io/)- Web app for querying, sorting, and exporting Salesforce data.
 
 * [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.
+
+* [Weave](http://mailtoharshit.github.io/Weave/) - Sublime Text Plugin to generate boilerplate Salesforce Code Templates  
+
+* [Workbench](https://github.com/ryanbrainard/forceworkbench)- Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.
 
 ### Git Ignore for Salesforce
 
